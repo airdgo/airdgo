@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 I’m currently working at <a href="https://www.arrkeurope.com" target="blank">ARRK Research & Development</a>
 
