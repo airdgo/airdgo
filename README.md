@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available <a href="https://portfolio-airdgo.vercel.app" target="blank">here</a>
 
-- 📄 Take a look at my <a href="https://portofolio-airdgo.vercel.app/Vlad-Dragoi-Resume.pdf" target="blank">resume</a>
+- 📄 Take a look at my <a href="https://portfolio-airdgo.vercel.app/Vlad-Dragoi-Resume.pdf" target="blank">resume</a>
 
 - 🔗 Find me on <a href="https://www.linkedin.com/in/vlad-dragoi" target="blank">LinkedIn</a>
 
