@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://portofolio-airdgo.vercel.app" target="blank">Vlad Dragoi</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://portfolio-airdgo.vercel.app" target="blank">Vlad Dragoi</a></h1>
 
 <h3 align="center">A passionate Web Developer from Romania 🇷🇴</h3>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vladdragoi1@gmail.com**
 
-- 👨‍💻 All of my projects are available <a href="https://portofolio-airdgo.vercel.app" target="blank">here</a>
+- 👨‍💻 All of my projects are available <a href="https://portfolio-airdgo.vercel.app" target="blank">here</a>
 
 - 📄 Take a look at my <a href="https://portofolio-airdgo.vercel.app/Vlad-Dragoi-Resume.pdf" target="blank">resume</a>
 
