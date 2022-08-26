@@ -18,7 +18,7 @@
 
 - 📄 Take a look at my <a href="https://portofolio-airdgo.vercel.app/Vlad-Dragoi-Resume.pdf" target="blank">resume</a>
 
-- 🔗 Find me on <a href="" target="blank">LinkedIn</a>
+- 🔗 Find me on <a href="https://www.linkedin.com/in/vlad-dragoi" target="blank">LinkedIn</a>
 
 <br/>
 <br/>
