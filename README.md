@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🔭 I’m currently working at <a href="https://www.arrkeurope.com" target="blank">ARRK Research & Development</a>
 
@@ -17,6 +17,8 @@
 - 👨‍💻 All of my projects are available <a href="https://portofolio-airdgo.vercel.app" target="blank">here</a>
 
 - 📄 Take a look at my <a href="https://portofolio-airdgo.vercel.app/Vlad-Dragoi-Resume.pdf" target="blank">resume</a>
+
+- 🔗 Find me on <a href="" target="blank">LinkedIn</a>
 
 <br/>
 <br/>
