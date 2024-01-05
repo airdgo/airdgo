@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working at <a href="https://www.arrkeurope.com" target="blank">ARRK Research & Development</a>
 
-- 🌱 And I’m currently learning Angular
-
-- 💬 Ask me about **React & Angular**
+- 💬 Ask me about anything about **Web Development**
 
 - 📫 How to reach me **vladdragoi1@gmail.com**
 
