@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://portfolio-airdgo.vercel.app" target="blank">Vlad Dragoi</a></h1>
 
-<h3 align="center">A passionate Software Developer from Romania 🇷🇴</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <br/>
 
