@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://portfolio-airdgo.vercel.app" target="blank">Vlad Dragoi</a></h1>
 
-<h3 align="center">A passionate Web Developer from Romania 🇷🇴</h3>
+<h3 align="center">A passionate Software Developer from Romania 🇷🇴</h3>
 
 <br/>
 
 <img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 I’m currently working at <a href="https://www.arrkeurope.com" target="blank">ARRK Research & Development</a>
-
-- 💬 Ask me about anything about **Web Development**
+- 💬 Ask me about anything about **Software Development**
 
 - 📫 How to reach me **vladdragoi1@gmail.com**
 
