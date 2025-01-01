@@ -7,6 +7,6 @@
 - **Backend**: FastAPI | Flask | NestJS | Express | SQL databases
 - **Tools**: Docker | Git
 
-🎲 When I'm not coding, you'll probably find me hitting the trails on my mountain bike, chasing that next adrenaline rush. 🚴‍♂️
+🎲 When I'm not coding, you'll probably find me hitting the trails on my mountain bike, running or swimming
 
 🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/vlad-dragoi)
